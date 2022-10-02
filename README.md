@@ -12,7 +12,7 @@ and a [gym tracker API](https://github.com/jasonjdominguez99/gym-tracker)
 
 - 📄 Know about my experiences [https://jasonjdominguez99.github.io/Resume/](https://jasonjdominguez99.github.io/Resume/)
 
-- ⚡ Fun fact **I play drums for the indie band Whatever The Weather @_whatevertheweather**
+- ⚡ Fun fact **I play drums for the indie band Sleeping Together @sleepingtogetherband**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
