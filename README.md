@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on: a symbolic [music generation foundation model](https://github.com/jasonjdominguez99/music-generation-foundation-model)
 and a [gym tracker API](https://github.com/jasonjdominguez99/gym-tracker)
 
-- 🌱 I’m currently learning **Android app development**
+<!-- - 🌱 I’m currently learning **Android app development** -->
 
 - 📫 How to reach me **jasonjdominguez99@gmail.com**
 
