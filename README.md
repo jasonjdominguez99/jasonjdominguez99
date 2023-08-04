@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Jason 👋</h1>
-<h3 align="center">🎶🤖 Physics graduate and C++ sofware dev, interested in music and computer vision 🤖🎶</h3>
+<h3 align="center">🎶🤖 Physics grad and C++ sofware dev, interested in music and computer vision 🤖🎶</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasonjdominguez99&label=Profile%20views&color=0e75b6&style=flat" alt="jasonjdominguez99" /> </p>
 
