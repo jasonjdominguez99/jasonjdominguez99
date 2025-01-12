@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasonjdominguez99&label=Profile%20views&color=0e75b6&style=flat" alt="jasonjdominguez99" /> </p>
 
-- 🔭 I’m currently working on a [gym tracker API](https://github.com/jasonjdominguez99/gym-tracker)
+- 🔭 I’m currently working on a [options pricing](https://github.com/jasonjdominguez99/OptPriEngine)
 
 <!-- - 🌱 I’m currently learning **Android app development** -->
 
@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://jasonjdominguez99.github.io/Resume/](https://jasonjdominguez99.github.io/Resume/)
 
-- ⚡ Fun fact **I play drums for the indie band Sleeping Together @sleepingtogetherband**
+- ⚡ Fun fact **I used to play drums for the indie band Sleeping Together @sleepingtogetherband**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
