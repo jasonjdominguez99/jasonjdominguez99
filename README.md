@@ -5,6 +5,8 @@
 
 - 📫 How to reach me **jasonjdominguez99@gmail.com**
 
+- 📄 Know about my experiences [https://jasonjdominguez99.github.io/Resume/](https://jasonjdominguez99.github.io/Resume/)
+
 - ⚡ Fun fact **I used to play drums for the indie band Sleeping Together @sleepingtogetherband**
 
 <h3 align="left">Connect with me:</h3>
